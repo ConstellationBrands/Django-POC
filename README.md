@@ -1,5 +1,7 @@
 # Django-POC
 
+FYI I have useed instructions in https://www.enterprisedb.com/postgres-tutorials/how-use-postgresql-django for starting and simplified them below.
+
 Before following the setup please make sure you have python 3.x installed.
 
 First step is to install the virtualenv
