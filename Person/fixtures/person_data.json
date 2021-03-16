@@ -1,0 +1,20 @@
+[
+  {
+    "model": "Person.Person",
+    "pk": 1,
+    "fields": {
+      "name": "John",
+      "company": "Deloitte",
+      "city": "NYC"
+    }
+  },
+  {
+    "model": "Person.Person",
+    "pk": 2,
+    "fields": {
+      "name": "Doe",
+      "company": "TCS",
+      "city": "San Jose"
+    }
+  }
+]
